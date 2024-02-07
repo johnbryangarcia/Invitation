@@ -202,6 +202,6 @@ body {
 }
 
 .text:hover:before {
-  content: "Will you be my valentine on February 14,2024?";
+  content: "Will you be my valentine on the 14th of February?";
   font-size: 25px;
 }
